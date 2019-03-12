@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def sort_array_asc(arr)
   arr.sort()
 end
@@ -41,3 +42,6 @@ def add_s(arr)
     i == 1? word : word << "s"
   end
 end
+=======
+def sort_array_asc
+>>>>>>> d934999aecd89dcfde4a03af996581808153a96b
